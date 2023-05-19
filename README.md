@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anton, an application development</div>  
+### <div align="center">I'm Anton, app developer</div>  
   
 
 I have experience of working in a team, have a desire to learn and work on experience
