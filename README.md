@@ -6,9 +6,7 @@
 ### <div align="center">I'm Anton, app developer</div>  
   
 
-I have experience of working in a team, have a desire to learn and work on experience
-and knowledge, and start a career as a Junior Developer in the company, in 5 years
-grow up to Team lead.
+Greetings. I have experience working in a team and a great desire to learn and develop using my skills and knowledge. I started my journey as a developer with the intention of growing into a Team Lead position. Along with this, my experience as a project manager has strengthened my project management and coordination skills, which will come in handy when developing and implementing complex technical tasks.
 Personal qualities
 Responsibility - a conscientious attitude to work.
 Punctuality - unconditional performance of tasks on time.
