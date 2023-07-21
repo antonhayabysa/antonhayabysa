@@ -7,6 +7,8 @@
   
 
 Greetings. I have experience working in a team and a great desire to learn and develop using my skills and knowledge. I started my journey as a developer with the intention of growing into a Team Lead position. Along with this, my experience as a project manager has strengthened my project management and coordination skills, which will come in handy when developing and implementing complex technical tasks.
+### 
+<br/>  
 Personal qualities
 Responsibility - a conscientious attitude to work.
 Punctuality - unconditional performance of tasks on time.
