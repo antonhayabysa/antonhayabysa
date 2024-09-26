@@ -6,7 +6,7 @@
 ### <div align="center">I'm Anton, app developer</div>  
   
 
-Greetings. I have experience working in a team and a great desire to learn and develop using my skills and knowledge. I started my journey as a developer with the intention of growing into a Team Lead position. Along with this, my experience as a project manager has strengthened my project management and coordination skills, which will come in handy when developing and implementing complex technical tasks.
+Greetings. I'm Anton, app developer with extensive experience in project management. I have honed my skills in team coordination and technical project implementation, aiming to grow into a leadership role. My journey as a developer is built on the foundation of responsibility, punctuality, and creativity, combined with a high work ethic and stress tolerance. I'm always eager to learn and develop, constantly seeking opportunities for self-improvement and professional growth.
 ### 
 <br/>  
 Personal qualities
