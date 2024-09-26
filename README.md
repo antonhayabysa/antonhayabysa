@@ -80,17 +80,6 @@ Stress tolerance - maintaining self-control in conflict situations.
 </a>  
 </div>  
   
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31nmz2vuzcpfm2o3cb6xchztiigm&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
   
 
 ----
